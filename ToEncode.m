@@ -1,10 +1,6 @@
 //
 //  ToEncode.m
-//  SimplexLP 2
-//
-//  Created by Axel Besser on 07.01.22.
-//  Copyright © 2022 Dr. Axel Besser. All rights reserved.
-//
+
 
 #import "ToEncode.h"
 
